@@ -1,3 +1,5 @@
+//Enlace a GitHub: https://github.com/Javi7142/JavaDocProject
+
 /**
  * Representa la información de un coche con su fabricante, modelo, año y precio.
  */
@@ -79,7 +81,7 @@ public class Car {
      * }</pre>
      * 
      * 
-     * @return breve descripción sobre el coche.
+     * @return breve descripción sobre el coche aportando el año, fabricante modelo y precio.
      */
     public String carDescription() {
         return "The car is a " + year + " " + make + " " + model + " priced at $" + price;
