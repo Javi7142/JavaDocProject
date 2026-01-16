@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Ejemplo de uso:","h":"Car.carDescription()","d":"Section","u":"Car.html#ejemplo-de-uso--heading"}];updateSearchResults();
